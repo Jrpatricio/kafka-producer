@@ -1,6 +1,6 @@
 package service;
 
-import Serialize.VendasSerialize;
+import serialize.VendasSerialize;
 import model.Vendas;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;

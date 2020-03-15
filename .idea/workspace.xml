@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -85,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584242466530</updated>
       <workItem from="1584242472974" duration="1948000" />
-      <workItem from="1584244473790" duration="2491000" />
+      <workItem from="1584244473790" duration="3364000" />
     </task>
     <servers />
   </component>
@@ -105,6 +109,22 @@
       <screen x="103" y="900" width="1366" height="768" />
     </state>
     <state x="539" y="1158" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/103.900.1366.768/0.0.1600.900@103.900.1366.768" timestamp="1584243379390" />
+    <state width="1320" height="66" key="GridCell.Tab.0.bottom" timestamp="1584247963304">
+      <screen x="103" y="900" width="1366" height="768" />
+    </state>
+    <state width="1320" height="66" key="GridCell.Tab.0.bottom/103.900.1366.768/0.0.1600.900@103.900.1366.768" timestamp="1584247963304" />
+    <state width="1320" height="66" key="GridCell.Tab.0.center" timestamp="1584247963304">
+      <screen x="103" y="900" width="1366" height="768" />
+    </state>
+    <state width="1320" height="66" key="GridCell.Tab.0.center/103.900.1366.768/0.0.1600.900@103.900.1366.768" timestamp="1584247963304" />
+    <state width="1320" height="66" key="GridCell.Tab.0.left" timestamp="1584247963303">
+      <screen x="103" y="900" width="1366" height="768" />
+    </state>
+    <state width="1320" height="66" key="GridCell.Tab.0.left/103.900.1366.768/0.0.1600.900@103.900.1366.768" timestamp="1584247963303" />
+    <state width="1320" height="66" key="GridCell.Tab.0.right" timestamp="1584247963304">
+      <screen x="103" y="900" width="1366" height="768" />
+    </state>
+    <state width="1320" height="66" key="GridCell.Tab.0.right/103.900.1366.768/0.0.1600.900@103.900.1366.768" timestamp="1584247963304" />
     <state x="275" y="931" width="1022" height="737" key="SettingsEditor" timestamp="1584245488634">
       <screen x="103" y="900" width="1366" height="768" />
     </state>

@@ -1,4 +1,4 @@
-package Serialize;
+package serialize;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.SneakyThrows;
